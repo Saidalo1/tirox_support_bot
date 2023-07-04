@@ -1,0 +1,73 @@
+# English translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-06-21 07:43+0500\n"
+"PO-Revision-Date: 2023-06-21 07:43+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+msgid "GREETING_TEXT"
+msgstr "Hello! Welcome to Tirox! \nHow can we assist you today? Please feel free to ask any questions or share your inquiries. We're here to help!"
+
+msgid "ERROR_LANGUAGE"
+msgstr "❌ Oops, it seems you entered incorrectly! Please select one of the options using the buttons. 👇"
+
+msgid "CONSULT"
+msgstr "Consultation"
+
+msgid "ABOUT_US_BUTTON"
+msgstr "About Us"
+
+msgid "ABOUT_US"
+msgstr "We are the Tirox team - here for you! \nSimplifying your life with our loyalty card. \nOur mission - unique benefits and happiness for you! \nFeel free to reach out to us with any questions - we're always ready to help!"
+
+msgid "SEND_NAME_TEXT"
+msgstr "Please, enter your name."
+
+msgid "CANCEL"
+msgstr "❌ CANCEL"
+
+msgid "SEND_PHONE_TEXT"
+msgstr "📞 Please share your phone number by tapping the button below:"
+
+msgid "SEND_CONTACT"
+msgstr "📞 Send Contact"
+
+msgid "ERROR_NAME_TEXT"
+msgstr "🚫 Sorry, the name you entered is invalid. Please make sure to enter a valid name consisting of letters only (3-30 characters). Try again or click on the button below to start over🙁."
+
+msgid "SEND_MESSAGE_TEXT"
+msgstr "Please, send us your message."
+
+msgid "BACK"
+msgstr "Back🔙"
+
+msgid "MAIN_MENU"
+msgstr "Main Menu"
+
+msgid "BACK_MAIN_MENU"
+msgstr "Back to main menu"
+
+msgid "BACK_TO_MENU_SELECT_LANGUAGE"
+msgstr "Back to menu for select language"
+
+msgid "BACK_TO_MENU_SELECT_CATEGORY"
+msgstr "Back to menu for select category"
+
+msgid "RESEND_YOUR_NAME"
+msgstr "Please, resend your name: "
+
+msgid "RESEND_YOUR_CONTACT"
+msgstr "Please, resend your contact: "

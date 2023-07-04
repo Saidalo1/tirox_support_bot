@@ -1,0 +1,73 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-06-21 07:43+0500\n"
+"PO-Revision-Date: 2023-06-21 07:43+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+msgid "GREETING_TEXT"
+msgstr "Salom! Tiroxga xush kelibsiz! \nBugun sizga qanday yordam berishimiz mumkin? Savollaringizni so'rashingiz yoki talablarini ulashingizga ergashtirmang. Biz sizga yordam berish uchun bu erda turganmiz!"
+
+msgid "ERROR_LANGUAGE"
+msgstr "❌ Xato, ko'rib turganicha, xato kiritdingiz! Iltimos, tugmalar yordamida variantlardan birini tanlang. 👇"
+
+msgid "CONSULT"
+msgstr "Maslahatlashuv"
+
+msgid "ABOUT_US"
+msgstr "Biz Tirox jamoasi - siz uchun! \nHayotni kartamiz orqali osonlashtiramiz. \nBizning maqsadimiz - eng foydali imtiyozlar va xursandlik siz uchun! \nSavollaringiz bo'lsa, menga murojaat qilishingizdan xursandman - men doim tayyorman yordam berishga!"
+
+msgid "ABOUT_US_BUTTON"
+msgstr "Biz haqimizda"
+
+msgid "SEND_NAME_TEXT"
+msgstr "Iltimos, ismingizni kiriting"
+
+msgid "CANCEL"
+msgstr "❌ BEKOR QILISH"
+
+msgid "SEND_PHONE_TEXT"
+msgstr "Iltimos, telefon raqamingizni quyidagi tugmaga bosing:"
+
+msgid "SEND_CONTACT"
+msgstr "📞 Telefon raqamni yuborish"
+
+msgid "ERROR_NAME_TEXT"
+msgstr "🚫 Kechirasiz, kiritgan ism noto'g'ri. Iltimos, faqat harflardan iborat to'g'ri ism kiriting (3-30 belgi). Qaytadan urinib ko'ring yoki pastdagi tugmani bosing."
+
+msgid "SEND_MESSAGE_TEXT"
+msgstr "Iltimos, xabaringizni jo'nating."
+
+msgid "BACK"
+msgstr "Ortga🔙"
+
+msgid "MAIN_MENU"
+msgstr "Bosh menu"
+
+msgid "BACK_MAIN_MENU"
+msgstr "Bosh menyuga ortga"
+
+msgid "BACK_TO_MENU_SELECT_LANGUAGE"
+msgstr "Til o'zgartirish menyusiga ortga"
+
+msgid "BACK_TO_MENU_SELECT_CATEGORY"
+msgstr "Kategoriya tanlash menyusiga ortga"
+
+msgid "RESEND_YOUR_NAME"
+msgstr "Iltimos, ismingizni qayta jo'nating: "
+
+msgid "RESEND_YOUR_CONTACT"
+msgstr "Iltimos, kontaktingizni qayta jo'nating: "

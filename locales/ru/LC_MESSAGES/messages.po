@@ -1,0 +1,75 @@
+# Russian translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-06-21 07:43+0500\n"
+"PO-Revision-Date: 2023-06-21 07:43+0500\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: ru\n"
+"Language-Team: ru <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+msgid "GREETING_TEXT"
+msgstr "Приветствуем вас в Tirox! \nЧем мы можем вам помочь сегодня? Не стесняйтесь задавать вопросы или делиться своими запросами. Мы здесь, чтобы помочь!"
+
+# Incorrect Selected Language
+msgid "ERROR_LANGUAGE"
+msgstr "❌ Ой, похоже, вы ввели неправильно! Пожалуйста, выберите один из вариантов, используя кнопки. 👇"
+
+msgid "CONSULT"
+msgstr "Консультация"
+
+msgid "ABOUT_US"
+msgstr "Мы команда Tirox - здесь для вас! \n Облегчаем вашу жизнь с помощью нашей карты лояльности. \nНаша миссия - уникальные преимущества и радость для вас! \nОбращайтесь к нам с любыми вопросами - мы всегда готовы помочь!"
+
+msgid "ABOUT_US_BUTTON"
+msgstr "О нас"
+
+msgid "CANCEL"
+msgstr "❌ Отмена"
+
+msgid "SEND_NAME_TEXT"
+msgstr "Пожалуйста, введите свое имя."
+
+msgid "SEND_PHONE_TEXT"
+msgstr "Пожалуйста, отправьте свой номер телефона, нажав на кнопку ниже:"
+
+msgid "SEND_CONTACT"
+msgstr "📞 Отправить контакт"
+
+msgid "ERROR_NAME_TEXT"
+msgstr "🚫 Извините, введенное вами имя недействительно. Пожалуйста, убедитесь, что вы вводите только буквы в имени (3-30 символов). Попробуйте еще раз или нажмите на кнопку ниже, чтобы начать заново."
+
+msgid "SEND_MESSAGE_TEXT"
+msgstr "Пожалуйста, отправьте нам сообщение."
+
+msgid "BACK"
+msgstr "Назад🔙"
+
+msgid "MAIN_MENU"
+msgstr "Главное меню"
+
+msgid "BACK_MAIN_MENU"
+msgstr "Назад в главное меню"
+
+msgid "BACK_TO_MENU_SELECT_LANGUAGE"
+msgstr "Назад в меню выбор языка"
+
+msgid "BACK_TO_MENU_SELECT_CATEGORY"
+msgstr "Назад в меню выбор категории"
+
+msgid "RESEND_YOUR_NAME"
+msgstr "Пожалуйста, пере отправьте ваше имя: "
+
+msgid "RESEND_YOUR_CONTACT"
+msgstr "Пожалуйста, пере отправьте ваш контакт"
